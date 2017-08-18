@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Objectivity.Bot.Utils</id>
+        <version>1.0.0</version>
+        <authors>Objectivity Bespoke Software Specialists</authors>
+        <licenseUrl>https://opensource.org/licenses/mit-license.php</licenseUrl>
+        <projectUrl>https://github.com/ObjectivityLtd/Bot.Common</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Utils for LUIS and SFB projects</description>
+        <language />
+        <tags>C#, bot.framework, utils</tags>
+    </metadata>
+    <files>
+        <file src="bin\Release\Objectivity.Bot.Utils.dll" target="lib\Objectivity.Bot.Utils.dll" />
+    </files>
+</package>
