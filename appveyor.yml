@@ -31,7 +31,7 @@ assembly_info:
   assembly_file_version: "{version}"
 environment:
   NugetApiKey:
-    secure: Uv0dZyhFkHDm+qsH+qhtnM35q/U8pbVDBUWWlvP0VcCkOB26TOCDM+28wcVVKnao
+    secure: DIE2y66RzXWvp2Q0wIOLlBTjxILBGeHyyg3pjwWjdVrggzuj9BuMWCdfHFmt9nt2
 deploy:
   - provider: NuGet
     api_key: $(NugetApiKey)
